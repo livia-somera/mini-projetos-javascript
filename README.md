@@ -11,7 +11,7 @@
 <br>
 
 ### ⏰ Projeto 01 - Cronômetro
-- Contador progressivo
+- Contador progressivo que permite iniciar uma contagem, pausar/reiniciar e zerar a contagem
 
 <br>
 
