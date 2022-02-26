@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+:root {
+  --primary-color: rgb(46,139,87);
+}
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--primary-color);
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+h1{
+  text-align: center;
+}
+
+.container {
+  width: 440px;
+  margin: 130px auto;
+  background: #d3e9de;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.relogio{
+    font-size: 3em;
+    text-align: center;
+}
+
+.pausado{
+    color: red;
+}
+
+.btn{
+    font-size: 0.8em;
+    font-weight: bold;
+    padding: 3px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.iniciar{
+    background-color: 		#20B2AA;
+}
+
+.pausar{
+    background-color: 	#f2f559;
+}
+
+.zerar{
+    background-color: 	#DA70D6;
+}
