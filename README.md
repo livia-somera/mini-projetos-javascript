@@ -20,7 +20,8 @@
 
 <br>
 
-### 📝 Projeto 03 - Lista de Tarefas
+### 📝 Projeto 03 - Lista de Tarefas 
+### 🩺 Projeto 04 - Calculadora IMC
 
 #
 <h4 align="center"> 
