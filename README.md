@@ -1,6 +1,6 @@
 <h1 align="center">Mini Projetos com JavaScript</h1>
 
-<p align="center">Projetos simples desenvolvidos para fixar conceitos da linguagem JavaScript</p>
+<p align="center">Pequenos projetos desenvolvidos para fixar conceitos da linguagem JavaScript</p>
 <br>
 
 ## 💻 Tecnologias 
