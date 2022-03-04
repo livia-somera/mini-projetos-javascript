@@ -21,7 +21,12 @@
 <br>
 
 ### 📝 Projeto 03 - Lista de Tarefas 
-### 🩺 Projeto 04 - Calculadora IMC
+- Painel que permite criar uma lista de tarefas, também sendo possível apagar uma a uma
+-  As tarefas ficam armazenadas mesmo quando o navegador é fechado e são exibidas quando ele é aberto novamente
+
+<br>
+
+### 📋 Projeto 04 - Formulário
 
 #
 <h4 align="center"> 
