@@ -22,14 +22,16 @@
 
 ### 📝 Projeto 03 - Lista de Tarefas 
 - Painel que permite criar uma lista de tarefas, também sendo possível apagar uma a uma
--  As tarefas ficam armazenadas mesmo quando o navegador é fechado e são exibidas quando ele é aberto novamente
+- As tarefas ficam armazenadas mesmo quando o navegador é fechado e são exibidas quando ele é aberto novamente
 
 <br>
 
 ### 📋 Projeto 04 - Formulário
+- Formulário de cadastro contendo os campos: nome, sobrenome, CPF, usuário e senha
+- Todos os campos têm validações, com destaque para o campo de CPF, onde verifica-se o mesmo é válido ou não
 
 #
 <h4 align="center"> 
-em andamento 🚧
+projeto concluído ✔️
 </h4>
 
